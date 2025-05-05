@@ -2,15 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gotechengineering.com.au/</loc>
-    <lastmod>2020-07-31T06:59:32+00:00</lastmod>
-  </url><url>
-    <loc>https://gotechengineering.com.au/privacy/</loc>
-    <lastmod>2020-07-31T06:59:32+00:00</lastmod>
-  </url><url>
     <loc>https://gotechengineering.com.au/categories/</loc>
   </url><url>
     <loc>https://gotechengineering.com.au/contact/</loc>
+  </url><url>
+    <loc>https://gotechengineering.com.au/</loc>
   </url><url>
     <loc>https://gotechengineering.com.au/services/</loc>
   </url><url>
